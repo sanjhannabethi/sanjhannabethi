@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjhannabethi&label=Profile%20views&color=0e75b6&style=flat" alt="sanjhannabethi" /> </p>
 
-- 🔭 I’m currently working on [G-Electra's Website](https://github.com/G-Electra-Web)
+- 🔭 I’m currently working on [Skill-Metric](https://github.com/sanjhannabethi/Skill-Metric)
 
 - 🌱 I’m currently learning **React JS, Django**
 
