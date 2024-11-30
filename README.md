@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjhannabethi&label=Profile%20views&color=0e75b6&style=flat" alt="sanjhannabethi" /> </p>
 
-- 🔭 I’m currently working on [Wordle Game](https://github.com/sanjhannabethi/wordle-django)
+- 🔭 I’m currently working on [Tic-Tac-Toe Game](https://github.com/sanjhannabethi/tic-tac-toe-django)
 
 - 🌱 I’m currently learning **React JS, Django**
 
