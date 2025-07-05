@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **TypeScript, React JS, Django**
 
-- 💬 Ask me about **Python, C, C++, Java, DSA, Front-end Dev**
+- 💬 Ask me about **Python, C, C++, Java, DSA, Web Development, Microsoft Azure**
 
 - 📫 How to reach me? **sanjhannabethi@gmail.com**
 
