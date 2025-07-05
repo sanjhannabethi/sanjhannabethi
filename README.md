@@ -1,14 +1,14 @@
 <h1 align="center">Hi, I'm Sanjhanna!</h1>
-<h3 align="center">DESIS Ascend Educare '23 | Google TalentSprint WE Scholar '23</h3>
-<h3 align="center">CSE Junior at GITAM University, Hyderabad</h3>
+<h3 align="center">Ex Cloud Engineer Intern @ Signode | DESIS Ascend Educare '23 | Google TalentSprint WE Scholar '23</h3>
+<h3 align="center">CSE Senior at GITAM University, Hyderabad</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjhannabethi&label=Profile%20views&color=0e75b6&style=flat" alt="sanjhannabethi" /> </p>
 
 - 🔭 I’m currently working on [Finora - A Finance Management System](https://github.com/sanjhannabethi/finance-management-system)
 
-- 🌱 I’m currently learning **TypeScript, React JS, Django**
+- 🌱 I’m currently learning **TypeScript, React JS, Next.js, MongoDB**
 
-- 💬 Ask me about **Python, C, C++, Java, DSA, Web Development, Microsoft Azure**
+- 💬 Ask me about **Python, C, C++, Java, DSA, Web Development, Microsoft Azure, Virtualization & VMs, Server Management**
 
 - 📫 How to reach me? **sanjhannabethi@gmail.com**
 
