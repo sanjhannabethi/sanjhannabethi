@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjhannabethi&label=Profile%20views&color=0e75b6&style=flat" alt="sanjhannabethi" /> </p>
 
-- 🔭 I’m currently working on [Finora - A Finance Management System](https://github.com/sanjhannabethi/lingo-bridge)
+- 🔭 I’m currently working on [LingoBridge - A Language Learning Community](https://github.com/sanjhannabethi/lingo-bridge)
 
 - 🌱 I’m currently learning **TypeScript, React JS, Next.js, MongoDB**
 
